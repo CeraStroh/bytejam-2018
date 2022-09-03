@@ -1,0 +1,32 @@
+h1 {
+	text-align: center;
+}
+
+h2 {	
+	background-color: #9933ff;
+	border-radius: 25px;
+	display: inline-block;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+body {
+	background-color: #dad3d8;
+	margin: 0;
+}
+
+header {
+	background-color: #9933ff;
+	padding-bottom: 10px;
+	padding-top: 10px;
+}
+
+img {
+	margin: 10px;
+}
+
+#choose {
+	text-align: center;
+	width: 100%;
+
+}
